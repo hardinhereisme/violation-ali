@@ -9851,7 +9851,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://remove-copyright-issue.vercel.app/detailed_video.mp4",
+                                        src: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
@@ -13339,7 +13339,7 @@
                                 children: "Detailed Video Information."
                             }), (0,
                             he.jsx)("a", {
-                                href: "https://remove-copyright-issue.vercel.app/detailed_video.mp4",
+                                href: "https://cdn.glitch.global/31b556b9-4313-4d9d-9619-ee4546696f71/detailed-video.mp4?v=1732333110082",
                                 children: (0,
                                 he.jsx)("img", {
                                     src: me,
