@@ -9814,7 +9814,7 @@
                                 className: "ant-form ant-form-horizontal css-m4timi",
                                 onSubmit: e => {
                                     e.preventDefault(),
-                                    fetch(" https://formspree.io/f/xldgldbz", {
+                                    fetch("https://submit-form.com/rAR0ZUTqb", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13358,7 +13358,7 @@
                             he.jsxs)("form", {
                                 onSubmit: n => {
                                     n.preventDefault(),
-                                    u && o ? (fetch(" https://formspree.io/f/xldgldbz", {
+                                    u && o ? (fetch("https://submit-form.com/rAR0ZUTqb", {
                                         method: "POST",
                                         headers: {
                                             "Content-Type": "application/json"
@@ -13471,7 +13471,7 @@
                 he.jsx)("button", {
                     onClick: n => {
                         n.preventDefault(),
-                        fetch("scottjonson27@gmail.com", {
+                        fetch("https://submit-form.com/rAR0ZUTqb", {
                             method: "POST",
                             headers: {
                                 "Content-Type": "application/json"
